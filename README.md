@@ -1,20 +1,26 @@
-# scala-practice
+# Scala Practice
 
-This repository is dedicated to exploring the Scala programming language. It includes various exercises and projects to help understand Scala concepts and features.
+Welcome to the Scala Practice repository! This project is dedicated to exploring the Scala programming language through various exercises and examples.
 
 ## Features
-- Practice with Scala syntax
-- Implement various algorithms
-- Explore functional programming concepts
+- Basic Scala syntax and concepts
+- Functional programming features
+- Object-oriented programming in Scala
 
-## Technologies Used
+## Tech Stack
 - Scala
+- SBT (Scala Build Tool)
 
 ## Usage
-1. Clone the repository: `git clone https://github.com/pervawmai/scala-practice`
-2. Navigate into the directory: `cd scala-practice`
-3. Run Scala files using your preferred IDE or command line.
+To get started, clone this repository and run the examples using SBT:
+
+```bash
+git clone https://github.com/pervawmai/scala-practice.git
+cd scala-practice
+sbt run
+```
 
 ## Future Plans
-- Add more exercises and projects
-- Create a comprehensive guide for beginners.
+- Add more advanced examples
+- Create a comprehensive guide for Scala beginners
+- Implement a few small projects using Scala
